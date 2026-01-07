@@ -1,0 +1,14 @@
+# Base dependencies
+pandas>=1.5.0
+numpy>=1.21.0
+schedule>=1.1.0
+
+# Qlib (for model training)
+pyqlib>=0.9.0
+
+# Kalshi API (when available)
+# kalshi-python>=1.0.0
+
+# Optional: for enhanced monitoring
+# prometheus-client>=0.15.0
+# python-json-logger>=2.0.0
